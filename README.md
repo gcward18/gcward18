@@ -67,6 +67,7 @@ Currently, I’m exploring how LLMs and open-source AI models can power the next
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 **AI / ML**
+
 ![LLaMA](https://img.shields.io/badge/LLaMA_Model-FF4C9B?style=for-the-badge&logo=meta&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
