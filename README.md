@@ -1,4 +1,4 @@
-# Hi, I'm George Ward  
+# Hi, 👋 I'm George Ward  
 **Full Stack Software Engineer** | **IFBB Pro Bodybuilder** | **Builder of Systems That Scale**
 
 I'm a full stack developer with 5+ years of experience building robust, scalable applications across frontend and backend. I specialize in Python, Flask, TypeScript, Angular, PostgreSQL, Docker, and Redis, with growing expertise in AI and cloud infrastructure (Azure, GCP). I’ve led engineering teams, worked in secure government environments, and delivered high-performance solutions in high-stakes settings.
