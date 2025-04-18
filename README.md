@@ -22,6 +22,7 @@ Currently, I’m exploring how LLMs and open-source AI models can power the next
 **🌍** Based in the U.S.  
 **🖥️** Portfolio coming soon  
 **📫** Reach me at gcward18@gmail.com 
+
 **🚀** Currently working on a LLaMA-powered coaching assistant  
 **🧠** Learning more about cloud-native AI deployment  
 **🤝** Open to collaborations in AI, dev tools, and product-focused projects  
